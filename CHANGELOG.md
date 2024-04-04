@@ -1,5 +1,11 @@
 # Changelog
 
+## [10.5.2](https://github.com/npm/cli/compare/v10.5.1...v10.5.2) (2024-04-04)
+
+### Documentation
+
+* [`90ba1c9`](https://github.com/npm/cli/commit/90ba1c9fd6c1ea89173ed7712cf1da205732b164) [#7340](https://github.com/npm/cli/pull/7340) fix incorrect ISO 8601 reference (#7340) (@emmanuel-ferdman)
+
 ## [10.5.1](https://github.com/npm/cli/compare/v10.5.0...v10.5.1) (2024-04-03)
 
 ### Bug Fixes
